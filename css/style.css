@@ -492,7 +492,6 @@ footer p{
   .intro-content h1{
     font-size: 1.5rem;
     letter-spacing: 0.2rem;
-    background-color: red;
   }
   .intro-content h2,
   .intro-content h3 {
@@ -522,7 +521,7 @@ footer p{
    .foto {
     width: 12rem;
     height: 12rem;
-    margin-top: 0;
+    margin-top: 1rem;
   }
  
 /************************/
